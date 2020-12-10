@@ -1,0 +1,51 @@
+body
+{
+    background-color: #f1f1f1;
+}
+.profil
+{
+   width: 400px;
+    margin: auto;
+    background: #fff;
+    box-shadow: 20px 30px 40px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    color: #55AEFE;
+}
+.titre
+{
+    color: #3278B7;
+    padding: 16px;
+}
+.images
+{
+    position: relative;
+    box-shadow: 20px 30px 40px rgba(0,0,0,0.1);
+}
+.info
+{
+    color: #418ED4;
+    margin-right: 16px;
+}
+.contenu
+{
+    padding: 20px;
+}
+.barre-compétences
+{
+    background-color: #71B8F7;
+    border-radius: 16px;
+}
+.barre-progressive
+{
+    padding: 0.1em 16px;
+    border-radius: 16px;
+    text-align: center;
+    color: #fff;
+    background-color: #418ED4;
+}
+.titre
+{
+    position: absolute top;
+    left: 15px;
+}
+
